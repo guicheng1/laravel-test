@@ -10,6 +10,10 @@ abstract class Controller
     }
 
     public function index(){
+
+    }
+
+    public function test1(){
         
     }
 
