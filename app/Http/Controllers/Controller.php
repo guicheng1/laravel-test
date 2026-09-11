@@ -13,8 +13,4 @@ abstract class Controller
 
     }
 
-    public function test1(){
-        
-    }
-
 }
