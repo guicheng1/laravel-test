@@ -9,7 +9,7 @@ abstract class Controller
         
     }
 
-    public function index2(){
+    public function index(){
 
     }
 
